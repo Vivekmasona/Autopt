@@ -32,7 +32,7 @@ let storeColor = '#1f1f1f';
 colorBtn[0].addEventListener('click', function() {
   bgColor(storeColor);
   bgColor2('black');
-  elementColor('#fffc');
+  elementColor('#00ffff');
 });
 
 // dark mode
